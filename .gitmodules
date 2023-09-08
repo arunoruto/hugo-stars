@@ -1,0 +1,3 @@
+[submodule "themes/stars"]
+	path = themes/stars
+	url = https://github.com/arunoruto/hugo-theme-stars.git
